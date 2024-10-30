@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu_Principal.unity
+    guid: 75110fcba9f74e648a794ed84735ace7
+  - enabled: 1
+    path: Assets/Scenes/Menu_Personajes.unity
+    guid: e316bb86d31113047b4b4a6bfd9c27a4
+  - enabled: 1
+    path: Assets/Scenes/Casa_protagonista.unity
+    guid: c1f324e8bd8f14e4b87d60874ca94314
+  m_configObjects: {}

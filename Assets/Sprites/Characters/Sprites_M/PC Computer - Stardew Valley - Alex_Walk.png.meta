@@ -1,0 +1,1139 @@
+fileFormatVersion: 2
+guid: b867c6bebf5d1844daa8c8f516faf978
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 381
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4795be893b1106d4c9b6e17ca2f8591a
+      internalID: 416311201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 381
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147760428809e2347ab06844714a8799
+      internalID: -760514951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 381
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae7212b3e7157c429f33a9877d7ad7f
+      internalID: -1038724351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 381
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dc30f6897d05e43b7619fa646c45bd
+      internalID: -1875752359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 349
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714c34a836f6cfb46b6e88f67205b02f
+      internalID: 70528289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 349
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c55865eef55784e9b05715f4237648
+      internalID: -1321463285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 349
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c311dd2d3173b54f809a1e10a11a249
+      internalID: -657501165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 349
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198b138fd55896341badfcf8cd3be0ba
+      internalID: 715570977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 317
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547319aec61cd4b4abc802d190299e46
+      internalID: -1361838178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 317
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc5ee163b6aadc47aaf790f1ef05b75
+      internalID: 1471156216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 317
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a69a53122264204796b6765391ffe51
+      internalID: -839694096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 317
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b3c5a63bb0e82488fb059ea1523c68
+      internalID: 210434410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 285
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee80f422f6b7a5347b82c01515a68d49
+      internalID: 1166786235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 285
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cd2245c16401e4ebb007c1c4c6f658
+      internalID: 1021468128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 285
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa1ae1a35406564897b3934a6f263a5
+      internalID: 1380879672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 253
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf2621089c40fe479e6a25131518400
+      internalID: 175443159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aaaced46d66c44aa43e857247f8b60
+      internalID: -1284544854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 253
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b48eecdafc494c801b90d3995191a
+      internalID: -804291058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 253
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670b24ead93430546b527c223f948c29
+      internalID: -222652658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 221
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d1c778259c1f4cbd68a7cb7e13c9f
+      internalID: -1800308415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 221
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce07ae4900083f4cb4d2c7a119f839f
+      internalID: -571742516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 221
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e24fb08dbddc0540a2ec29df6823736
+      internalID: 735919454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 221
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c858eec530cb9246a83b4d741e580aa
+      internalID: -696837305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 189
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e62aee0b3450a4a97c296e1de5b5cb
+      internalID: -112291099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 189
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395d8b360146bd14fa71379dd6b12432
+      internalID: -1291367959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 189
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26872349107974440b18c16280d7a26d
+      internalID: -1015581493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f216cba1adb6774ea4762190e6041e5
+      internalID: -893181882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 157
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9044ff85ff52c5445a0a5d25cc651bb6
+      internalID: -1846741577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3d5155d5e14fc4f8683a16a5a868b0
+      internalID: 422176789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 125
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948403ab9eae46f4f94e8b27bb4cc626
+      internalID: 918157612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 125
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70da84acc27beb49a6815be3a454645
+      internalID: 221656389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb98091c6cf3d8e4faa7603a1e7e2da8
+      internalID: 548406114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 93
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af98d3fe48c0c91498df510a2d4e7cd0
+      internalID: -1168641127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 93
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c982b580272174a9ccc1bbec7d14ba
+      internalID: -1759064907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3ee8e0edeb79449a3a794466911947
+      internalID: 1245287265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cfc6b07cce9fc42a4fcc97faeffc7f
+      internalID: -1255457984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf41013289592ca4ab5a7b8e4de3c497
+      internalID: -1182528231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 61
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c118469ffa05e424d969c711d0e9be80
+      internalID: 602373567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f59e96e92d8754693f7e779d2d2719
+      internalID: -33572075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 29
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93e34dbcebd2034dad682e8ef403d90
+      internalID: -383621507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 29
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f980e2bc6ba642419a4e09e5557ac2f
+      internalID: -873558711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 29
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d038d4d1a889bfa4aaec8576ce8c19c6
+      internalID: -1709368603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bd699284c702a42b08a01c7567946f
+      internalID: 1982585050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025c952d54762d84baf55e54ad33afe0
+      internalID: -811239720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c949e64720443458d13eab5d948ac1
+      internalID: 1498895140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Alex_Walk_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50de44ca1bc1dda4daa57584eec349b7
+      internalID: -218620137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Stardew Valley - Alex_Walk_0: 416311201
+      PC Computer - Stardew Valley - Alex_Walk_1: -760514951
+      PC Computer - Stardew Valley - Alex_Walk_10: -839694096
+      PC Computer - Stardew Valley - Alex_Walk_11: 210434410
+      PC Computer - Stardew Valley - Alex_Walk_12: 1166786235
+      PC Computer - Stardew Valley - Alex_Walk_13: 1021468128
+      PC Computer - Stardew Valley - Alex_Walk_14: 1380879672
+      PC Computer - Stardew Valley - Alex_Walk_15: 175443159
+      PC Computer - Stardew Valley - Alex_Walk_16: -1284544854
+      PC Computer - Stardew Valley - Alex_Walk_17: -804291058
+      PC Computer - Stardew Valley - Alex_Walk_18: -222652658
+      PC Computer - Stardew Valley - Alex_Walk_19: -1800308415
+      PC Computer - Stardew Valley - Alex_Walk_2: -1038724351
+      PC Computer - Stardew Valley - Alex_Walk_20: -571742516
+      PC Computer - Stardew Valley - Alex_Walk_21: 735919454
+      PC Computer - Stardew Valley - Alex_Walk_22: -696837305
+      PC Computer - Stardew Valley - Alex_Walk_23: -112291099
+      PC Computer - Stardew Valley - Alex_Walk_24: -1291367959
+      PC Computer - Stardew Valley - Alex_Walk_25: -1015581493
+      PC Computer - Stardew Valley - Alex_Walk_26: -893181882
+      PC Computer - Stardew Valley - Alex_Walk_27: -1846741577
+      PC Computer - Stardew Valley - Alex_Walk_28: 422176789
+      PC Computer - Stardew Valley - Alex_Walk_29: 918157612
+      PC Computer - Stardew Valley - Alex_Walk_3: -1875752359
+      PC Computer - Stardew Valley - Alex_Walk_30: 221656389
+      PC Computer - Stardew Valley - Alex_Walk_31: 548406114
+      PC Computer - Stardew Valley - Alex_Walk_32: -1168641127
+      PC Computer - Stardew Valley - Alex_Walk_33: -1759064907
+      PC Computer - Stardew Valley - Alex_Walk_34: 1245287265
+      PC Computer - Stardew Valley - Alex_Walk_35: -1255457984
+      PC Computer - Stardew Valley - Alex_Walk_36: -1182528231
+      PC Computer - Stardew Valley - Alex_Walk_37: 602373567
+      PC Computer - Stardew Valley - Alex_Walk_38: -33572075
+      PC Computer - Stardew Valley - Alex_Walk_39: -383621507
+      PC Computer - Stardew Valley - Alex_Walk_4: 70528289
+      PC Computer - Stardew Valley - Alex_Walk_40: -873558711
+      PC Computer - Stardew Valley - Alex_Walk_41: -1709368603
+      PC Computer - Stardew Valley - Alex_Walk_42: 1982585050
+      PC Computer - Stardew Valley - Alex_Walk_43: -811239720
+      PC Computer - Stardew Valley - Alex_Walk_44: 1498895140
+      PC Computer - Stardew Valley - Alex_Walk_45: -218620137
+      PC Computer - Stardew Valley - Alex_Walk_5: -1321463285
+      PC Computer - Stardew Valley - Alex_Walk_6: -657501165
+      PC Computer - Stardew Valley - Alex_Walk_7: 715570977
+      PC Computer - Stardew Valley - Alex_Walk_8: -1361838178
+      PC Computer - Stardew Valley - Alex_Walk_9: 1471156216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
